@@ -1,0 +1,21 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Folder" referent="RBX94A6F83A3E634D0FB5F09F71B88A2579">
+		<Properties>
+			<string name="Name">R15Anim</string>
+		</Properties>
+		<Item class="StringValue" referent="RBX2920E9C11C8B4EDA9343B77F0B5FD824">
+			<Properties>
+				<string name="Name">run</string>
+				<string name="Value"></string>
+			</Properties>
+			<Item class="Animation" referent="RBX1C988A27C7704EEAA9B7A7F7C81BDAC0">
+				<Properties>
+					<Content name="AnimationId"><url>http://www.roblox.com/asset/?id=616163682</url></Content>
+					<string name="Name">RunAnim</string>
+				</Properties>
+			</Item>
+		</Item>
+	</Item>
+</roblox>
